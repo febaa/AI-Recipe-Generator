@@ -2,6 +2,11 @@
 
 The **Smart Recipe Generator** is a web application that recommends personalized recipes based on the ingredients available at home. It helps users make smarter food choices by considering dietary restrictions, nutrition goals, and food sustainability. This tool is designed to reduce food waste and assist with healthy meal planning.
 
+## Live Demo
+
+The website is deployed and accessible at the following link:  
+[https://ai-recipe-generator-by-feba.streamlit.app/](https://ai-recipe-generator-by-feba.streamlit.app/)
+
 ## Key Features
 
 ### 1. Ingredient-Based Recipe Suggestions
